@@ -77,10 +77,7 @@ This platform reduces manual workload, minimizes calculation errors, and ensures
 ## 🎥 Demo Video
 
 <p align="center">
-  <video width="700" controls>
-    <source src="./public/video/Student Dashboard Video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="./public/video/StudentDashboardVideoGif.gif" width="700"/>
 </p>
 
 ---
