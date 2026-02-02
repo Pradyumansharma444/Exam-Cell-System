@@ -84,13 +84,13 @@ This platform reduces manual workload, minimizes calculation errors, and ensures
 
 ## 🛠️ Tech Stack
 
-| Layer                 | Technology                   |
-| --------------------- | ---------------------------- |
-| Frontend              | HTML, CSS, JavaScript        |
-| UI Design             | Modern Responsive Layout     |
-| Deployment            | Vercel                       |
-| Backend _(optional)_  | Node.js / PHP / Python       |
-| Database _(optional)_ | MySQL / MongoDB / PostgreSQL |
+| Layer                 | Technology                               |
+| --------------------- | ---------------------------- ------------|
+| Frontend              | React.js, HTML5, CSS3, JavaScript (ES6+) |
+| UI Design             | Modern Responsive Layout                 |
+| Deployment            | Vercel                                   |
+| Backend _(optional)_  | Node.js / PHP / Python                   |
+| Database _(optional)_ | MySQL / MongoDB / PostgreSQL             |
 
 ---
 
